@@ -1,5 +1,11 @@
 # Changelog
 
+## 7.32.1
+
+### Patch Changes
+
+- [#1858](https://github.com/t3-oss/create-t3-app/pull/1858) [`29348b6`](https://github.com/t3-oss/create-t3-app/commit/29348b6b4f11d7f19915be6639e3c5aaa27b8907) Thanks [@lcabraja](https://github.com/lcabraja)! - Added drizzle's db.sqlite location to .gitignore
+
 ## 7.32.0
 
 ### Minor Changes
